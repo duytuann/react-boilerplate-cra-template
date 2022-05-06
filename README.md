@@ -1,151 +1,448 @@
-<img width="914" alt="React Boilerplate Meets CRA" src="https://user-images.githubusercontent.com/3495307/80274591-2d5daa00-86e4-11ea-8fba-404f1cdba87e.png" align="center">
-<br />
+<div class="container">
 
-<div align="center" >Crafted for <strong>highly scalable</strong> & <strong>performant</strong> and <strong>easily maintainable</strong> React.js applications <br /> 
-with a focus on  
-<strong>best DX</strong> and <strong>best practices</strong>.
-</div>
+<div class="WordSection1">
 
-<br />
+# <span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Healthy First</span>
 
-<div align="center">
-  <a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/actions?query=workflow%3Abuild">
-    <img src="https://github.com/react-boilerplate/react-boilerplate-cra-template/workflows/build/badge.svg" alt="Build Status" />
-  </a>
-  <a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/actions?query=workflow%3Atests">
-    <img src="https://github.com/react-boilerplate/react-boilerplate-cra-template/workflows/test/badge.svg" alt="Tests Status" />
-  </a>
-  <a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/actions?query=workflow%release">
-    <img src="https://github.com/react-boilerplate/react-boilerplate-cra-template/workflows/release/badge.svg" alt="Release Status" />
-  </a>
-</div>
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Hệ thống quản lý các cơ sở sản xuất thực phẩm, kinh doanh dịch vụ <span class="GramE">ăn</span> uống</span>
 
-<div align="center">
-  <a href="https://coveralls.io/github/react-boilerplate/react-boilerplate-cra-template">
-    <img src="https://coveralls.io/repos/github/react-boilerplate/react-boilerplate-cra-template/badge.svg?branch=master" alt="Coverage" />
-  </a>
-  <a href="https://opencollective.com/react-boilerplate">
-    <img src="https://opencollective.com/react-boilerplate/backers/badge.svg" alt="Backers" />
-  </a>
-  <a href="https://opencollective.com/react-boilerplate/">
-    <img src="https://opencollective.com/react-boilerplate/sponsors/badge.svg" alt="Sponsors" />
-  </a>
-</div>
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span>
 
-<br />
+**<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1. Thực hiện</span>**
 
----
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">- Thực hiện <span class="GramE">theo</span> nhóm (team) 3 sinh viên.</span>
 
-The official [Create React App](https://github.com/facebook/create-react-app) template of the `discontinued` [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">- Trình bày sản phẩm tại buổi thi vấn đáp.</span>
 
-Start your `create-react-app` projects in seconds with the best, industry-standard tools and practices made ready for you.
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span>
 
-**📚 Documentation:** [Gitbook](https://cansahin.gitbook.io/react-boilerplate-cra-template/)
+<table class="MsoNormalTable" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
+ mso-border-themecolor:text1;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellspacing="0" cellpadding="0" border="1">
 
-**🎨 Check the example app:** [Demonstrating the features](https://react-boilerplate.github.io/react-boilerplate-cra-template/)
+<tbody>
 
-**📂 Browse in VS Code:** [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/react-boilerplate/react-boilerplate-cra-template)
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
 
-**📦 Package:** [npm](https://www.npmjs.com/package/cra-template-rb)
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
 
-![version](https://img.shields.io/npm/v/cra-template-rb)
-![version](https://img.shields.io/npm/dm/cra-template-rb)
+**<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">STT</span>**
 
----
+</td>
 
-## Install & Start
+<td style="width:382.5pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
 
-⚠️ Using [Yarn Package Manager](https://yarnpkg.com) is recommended over `npm`.
+**<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tiêu chí chấm điểm</span>**
 
-Create React App with the template
+</td>
 
-```shell
-yarn create react-app --template cra-template-rb my-app
-```
+<td style="width:59.4pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
 
-Start and check our example app, if you want
+**<span style="font-size:13.0pt;font-family:
+  &quot;Times New Roman&quot;,&quot;serif&quot;">Hệ số</span>**
 
-```shell
-cd my-app
-yarn start
-```
+</td>
 
-Remove the example app to start your project!
+</tr>
 
-```shell
-yarn cleanAndSetup
-```
+<tr style="mso-yfti-irow:1">
 
----
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
 
-## Features
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span>
 
-> This project is **NOT** a framework, UI component library or a design system. The only purpose of this template is to assist you starting your CRA app with a solid tool stack and development patterns. It's 100% customizable. After you start your journey and once you understand the concepts offered here you should personalize your code accordingly instead of being tied to the starter project.
->
-> You can add or remove literally anything and use whichever library or tools you prefer.
+</td>
 
-<dl>
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
 
-  <dt>Predictable state management</dt>
-  <dd>Unidirectional data flow allows for change logging and time travel debugging.</dd>
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Chức năng và các features đã cài đặt</span>
 
-  <dt>Instant feedback</dt>
-  <dd>Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes to the CSS and JS are reflected instantaneously without refreshing the page. Preserve application state even when you update something in the underlying code!</dd>
+</td>
 
-  <dt>Next generation CSS</dt>
-  <dd>Write composable CSS that's co-located with your components for complete modularity. Unique generated class names keep the specificity low while eliminating style clashes. Ship only the styles that are on the page for the best performance.</dd>
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
 
-  <dt>Industry-standard routing</dt>
-  <dd>It's natural to want to add pages (e.g. `/about`) to your application, and routing makes this possible.</dd>
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.35</span>
 
-  <dt>Industry-standard i18n internationalization support</dt>
-  <dd>Scalable apps need to support multiple languages, easily add and support multiple languages.</dd>
+</td>
 
-  <dt>Typescript</dt>
-  <dd>Typescript is the key to scalability. Build self-documented code, easy-to-debug code and create maintainable large applications and codebases with a highly productive development experience.</dd>
+</tr>
 
-  <dt>Quick scaffolding</dt>
-  <dd>Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!</dd>
+<tr style="mso-yfti-irow:2">
 
-  <dt>Static code analysis</dt>
-  <dd>Focus on writing new features without worrying about formatting or code quality. With the right editor setup, your code will automatically be formatted and linted as you work.</dd>
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
 
-  <dt>SEO</dt>
-  <dd>We support SEO (document head tags management) for search engines that support indexing of JavaScript content. (eg. Google)</dd>
-</dl>
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2</span>
 
-But wait... there's more!
+</td>
 
-- _The best test setup:_ Automatically guarantee code quality and non-breaking
-  changes. (Seen a react app with 100% test coverage before?)
-- _The fastest fonts:_ Say goodbye to vacant text.
-- _Stay fast_: Profile your app's performance from the comfort of your command
-  line!
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
 
-<sub><i>Keywords: Create React App, React Boilerplate, Custom Template, Typescript, React.js, Redux, Hot Reloading, ESNext, Babel, react-router, `styled-components`, redux-saga, FontFaceObserver</i></sub>
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thiết kế: Logic, dễ sử dụng, đẹp</span>
 
-## Contributors
+</td>
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Can-Sahin"><img src="https://avatars2.githubusercontent.com/u/33245689?s=80" width="80px;" alt=""/><br /><sub><b>Can Sahin</b></sub></a><br /><a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/commits?author=Can-Sahin" title="Code">💻</a> <a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/commits?author=Can-Sahin" title="Documentation">📖</a> <a href="#ideas-Can-Sahin" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/pulls?q=is%3Apr+reviewed-by%3ACan-Sahin" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/commits?author=Can-Sahin" title="Tests">⚠️</a></td>
-    <td align="center"><a href="https://github.com/receptiryaki"><img src="https://avatars0.githubusercontent.com/u/3495307?s=80" width="80px;" alt=""/><br /><sub><b>Recep Tiryaki</b></sub></a><br /><a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/commits?author=receptiryaki" title="Code">💻</a> <a href="#ideas-receptiryaki" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-receptiryaki" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/mogsdad"><img src="https://avatars3.githubusercontent.com/u/1707731?s=80" width="80px;" alt=""/><br /><sub><b>David Bingham</b></sub></a><br /><a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/commits?author=mogsdad" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/lourensdev"><img src="https://avatars.githubusercontent.com/u/5746141?v=4?s=80" width="80px;" alt=""/><br /><sub><b>Lourens de Villiers</b></sub></a><br /><a href="https://github.com/react-boilerplate/react-boilerplate-cra-template/commits?author=lourensdev" title="Documentation">📖</a></td>
-  </tr>
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.15</span>
+
+</td>
+
+</tr>
+
+<tr style="mso-yfti-irow:3">
+
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3</span>
+
+</td>
+
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Responsive GUI</span>
+
+</td>
+
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.1</span>
+
+</td>
+
+</tr>
+
+<tr style="mso-yfti-irow:4">
+
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4</span>
+
+</td>
+
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Hiệu năng: Sử dụng fetch hoặc AJAX để tải bộ phận, không tải lại, backend API, sử dụng dữ liệu JSON, <span class="GramE">cập</span> nhật DOM trên frontend.</span>
+
+</td>
+
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.1</span>
+
+</td>
+
+</tr>
+
+<tr style="mso-yfti-irow:5">
+
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">5</span>
+
+</td>
+
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Phong cách lập trình: Sử dụng mẫu thiết kế, tách biệt mã tạo giao diện và mã xử lý nghiệp vụ, tổ chức thư viện, lớp và kế thừa, trình bày và chú thích mã<span class="GramE">, ...</span></span>
+
+</td>
+
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.1</span>
+
+</td>
+
+</tr>
+
+<tr style="mso-yfti-irow:6">
+
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">6</span>
+
+</td>
+
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Xử lý nhập liệu: Kiểm tra hợp thức, tự động điền, gợi ý, chuyển đổi<span class="GramE">, ...</span></span>
+
+</td>
+
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.05</span>
+
+</td>
+
+</tr>
+
+<tr style="mso-yfti-irow:7">
+
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">7</span>
+
+</td>
+
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Xử lý phiên, xác thực, an ninh</span>
+
+</td>
+
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.05</span>
+
+</td>
+
+</tr>
+
+<tr style="mso-yfti-irow:8">
+
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">8</span>
+
+</td>
+
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Viết lại và/hoặc định tuyến URL</span>
+
+</td>
+
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.05</span>
+
+</td>
+
+</tr>
+
+<tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes">
+
+<td style="width:36.9pt;border:solid black 1.0pt;
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="49" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">9</span>
+
+</td>
+
+<td style="width:382.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="510" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thao tác CSDL theo lập trình hướng đối và độc lập CSDL</span>
+
+</td>
+
+<td style="width:59.4pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
+  text1;padding:0in 5.4pt 0in 5.4pt" width="79" valign="top">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0.05</span>
+
+</td>
+
+</tr>
+
+</tbody>
+
 </table>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+**<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span>**
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+**<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2. Mô tả nghiệp vụ</span>**
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span>
 
-## License
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">HealthyFirst là ứng dụng web được phát triển nhằm hỗ trợ các chi cục an toàn vệ sinh thực <span class="GramE">phẩm<span style="mso-spacerun:yes"></span> trong</span><span style="mso-spacerun:yes"></span> công tác<span style="mso-spacerun:yes"></span> quản lý các cơ sở sản xuất thực phẩm hoặc kinh doanh dịch vụ ăn uống. Hệ thống cung cấp các chức năng chính như sau:</span>
 
-This project is licensed under the MIT license, Copyright (c) 2019 Maximilian Stoiber.
-For more information see `LICENSE.md`.
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span>
+
+<span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Quản lý các cơ sở sản xuất thực phẩm và/hoặc kinh doanh dịch vụ <span class="GramE">ăn</span> uống (gọi tắt là cơ sở). Mỗi cơ sở có các thông tin cơ bản bao gồm tên cơ sở, địa chỉ, xã/phường/thị trấn, quận/huyện, số điện thoại, các loại hình kinh doanh (sản xuất thực phẩm và/hoặc dịch vụ ăn uống), số cấp Giấy chứng nhận cơ sở đử điều kiện an toàn thực phẩm.</span>
+
+<span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Quản lý Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm</span>
+
+<span style="mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">a.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Cấp mới, <span class="GramE">thu</span> hồi, ra hạn (cấp lại) giấy chứng nhận cho các cơ sở. In và quản lý giấy chứng nhận khi cấp mới/lại. In và quản lý quyết định <span class="GramE">thu</span> hồi giấy chứng nhận. Thống kê số lượng giấy chứng nhận cấp <span class="GramE">theo</span> thời gian là loại hình cơ sở (sản xuất thực phẩm hay dịch vụ ăn uống).</span>
+
+<span style="mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">b.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Lọc danh sách các cơ sở đủ điều kiện <span class="GramE">an</span> toàn thực phẩm (có giấy chứng nhận đang còn hiệu lực. Thời gian hiệu lực của giấy chứng nhận là từ ngày cấp và trước ngày hết hạn hoặc bị <span class="GramE">thu</span> hồi).</span>
+
+<span style="mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">c.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Lọc danh sách các cơ sở không đủ điểu kiện an toàn thực phẩm (không có giấy chứng nhận đang còn hiệu lực), lọc chi tiết hơn danh sách cơ sở chưa được cấp, đã hết hạn, bị <span class="GramE">thu</span> hồi giấy chứng nhận.</span>
+
+<span style="font-size:13.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Quản lý hoạt thông thanh, kiểm tra điều kiện an toàn thực phẩm của các cơ sở</span>
+
+<span style="font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">a.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Lập kế hoạch thanh, kiểm tra các cơ sở về điều kiện <span class="GramE">an</span> toàn thực phẩm.</span>
+
+<span style="font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">b.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Theo dõi thực hiện kế hoạch thanh, kiểm tra.</span>
+
+<span style="font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">c.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thống kê kết quả thực hiện thanh, kiểm tra.</span>
+
+<span style="font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">d.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tự động gợi ý những cơ sở cần thanh, kiểm tra tiếp <span class="GramE">theo</span>.</span>
+
+<span style="font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">e.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Quản lý các mẫu thực phẩm cần/được giám định</span>
+
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Kế hoạch thanh, kiểm tra là danh sách các hoạt động thanh, kiểm tra được sắp xếp <span class="GramE">theo</span> trình tự thời gian. <span class="GramE">Một hoạt động thanh, kiểm tra sẽ thực hiện thanh, kiểm tra một cơ sở ở một thời gian cụ thể (từ ngày đến ngày).</span> Hoạt động thanh kiểm tra bao gồm các bước (1) kiểm tra tại cơ sở, (2) lấy mẫu thực phẩm và gửi/thực hiện kiểm định (nếu cần), (3) kết luận về kết quả thanh kiểm tra, (4) quyết định xử lý vi phạm (nếu có). Kết quả thanh, kiểm tra cho biết cơ sở đủ hay không đủ điều kiện <span class="GramE">an</span> toàn vệ sinh thực phẩm. <span class="GramE">Nếu quá trình thanh, kiểm tra có/cần lấy mẫu thực phẩm để giám định thì cần quản lý cả trạng thái thực hiện giám định (đánh mã các mẫu, đơn vị giám định, đã gửi giám định hay chưa, ngày nhận kết quả giám định, kết quả giám định từng mẫu).</span></span>
+
+<span style="font-size:13.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Phân quyền</span>
+
+<span style="font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">a.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Hệ thống cho phép quản lý người dùng, người dùng có vai trò là quản lý hoặc chuyên viên.</span>
+
+<span style="font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">b.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Người quản lý được thực hiện tất cả chức năng và truy cập tất cả dữ liệu. Người quản lý phân công địa bàn (huyện/quận) phụ trách cho các chuyên viên.</span>
+
+<span style="font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">c.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Chuyên viên phụ trách địa bàn nào thì chỉ làm việc trên dữ liệu các cơ sở thuộc địa bàn đó.</span>
+
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span>
+
+<span style="font-size:13.0pt;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span>
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">------- Hết -------</span>
+
+</div>
+
+</div>
